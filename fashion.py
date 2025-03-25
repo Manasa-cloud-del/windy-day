@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'your_open_ai_key'
 
 # Function to analyze sentiment using OpenAI
 def analyze_sentiment(text):
